@@ -2,4 +2,11 @@
 ~*
 .*
 .gitignore
-doNotSync/
+doNotSync
+
+Outlines.gdoc
+HWC.gslides
+Data/result.csv
+Data/result1.csv
+Data/result_2011_2020.csv
+Data/result_full.csv
